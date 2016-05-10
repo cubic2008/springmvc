@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue May 10 16:47:44 EDT 2016
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\gaod\\.m2\\repository\\org\\springframework\\spring-web\\4.1.0.RELEASE\\spring-web-4.1.0.RELEASE.jar=WEB-INF/lib/spring-web-4.1.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:util-core=WEB-INF/lib/util-core-0.0.1-SNAPSHOT.jar
